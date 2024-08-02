@@ -6,7 +6,7 @@
 # Site
 title: SEANDOPREP
 subtitle: 
-description: github.io for Remote Sensing & Deep Learning
+description: Remote Sensing & Deep Learning
 author: Seo Jin Kim(Sean Kim)
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2024
 
 # icon between year and author @Footer
 authoricon: heart
@@ -105,7 +105,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: True
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -227,8 +227,6 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
 
 
 # Sidebar Avatar
